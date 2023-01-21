@@ -104,6 +104,8 @@ body{
     transform: rotate(-90deg);
 }
 .hb-links{
+    position: fixed !important;
+    top: 4.2rem;
     background-color: black;
     opacity: 0.5;
     position: absolute;
